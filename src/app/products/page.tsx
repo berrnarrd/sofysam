@@ -123,6 +123,12 @@ const products = [
         description: 'The DML Filter Drier is designed for air conditioning systems that require high moisture removal capacity. DML Filter Driers are optimized for HFC refrigerants and mineral benzene oils. The filter driers are hermetic and approved for 46 bar.',
         image: '/product20.png', // Replace with the actual path to your image
     },
+    {
+        id: 21,
+        name: 'ALKALINE COIL CLEANER ',
+        description: 'Optimal Cleaning Performance Alkaline coil cleaner chemical for air conditioner. * Corrosion inhibited, non caustic formulation * Excellent cleaning, degreasing, descaling characteristics * Organic in nature * Non-acid, non-fuming, water soluble * Removes grime, oil, grease and rust from condenser and evaporator coils.',
+        image: '/product21.png', // Replace with the actual path to your image
+    },
     // Add more products here
 ];
 

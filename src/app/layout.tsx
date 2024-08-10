@@ -21,7 +21,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-        <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+        <link rel="icon" href="/favicon.png" type="image/svg+xml" />
         <title>Sofysam Fortune Enterprises - HVAC Supplies: Refrigerants, Compressor Oils, Copper Pipes, and More</title>
         <meta name="description" content="Sofysam Fortune Enterprises is a leading supplier of HVAC products including Refrigerants, Compressor Oils, Tapes, Filter Driers, Copper Tubes, Access Valves, and more." />
         <meta name="viewport" content="width=device-width, initial-scale=1" />

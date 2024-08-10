@@ -10,7 +10,7 @@ const Navbar: React.FC = () => {
         <header className="sticky top-0 z-50 w-full flex justify-center p-4">
             <nav className="flex justify-between items-center backdrop-blur-24px bg-[hsla(0,0%,100%,0.30)] rounded-full px-6 py-3 h-14 w-[584px]">
                 <Link href="/" className="flex items-center space-x-2">
-                    <img src="/NavLogo.svg" alt="Logo" className="h-12" /> {/* Adjust the height as needed */}
+                    <img src="/Logo2.png" alt="Logo" className="h-12" /> {/* Adjusted height to make the logo bigger */}
                 </Link>
                 <ul className="hidden md:flex space-x-4">
                     <li>
