@@ -6,7 +6,7 @@ import { faUsers, faBullseye } from '@fortawesome/free-solid-svg-icons';
 
 const AboutUs: React.FC = () => {
     return (
-        <div className="relative min-h-screen flex flex-col bg-[#006D5B] text-white">
+        <div className="relative min-h-screen flex flex-col bg-[#269BFE] text-white">
             <div className="relative min-h-screen w-full bg-cover bg-center bg-no-repeat" style={{ backgroundImage: "url('/who-we-are.png')" }}>
                 <div className="absolute inset-0 bg-black bg-opacity-50"></div>
                 <Navbar />
