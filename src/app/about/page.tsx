@@ -58,7 +58,7 @@ const AboutUs: React.FC = () => {
                     </div>
                     <div className="flex flex-col md:flex-row justify-center items-stretch space-y-16 md:space-y-0 md:space-x-16">
                         <div className="flex flex-col items-center text-center">
-                            <img src="/member1.jpg" alt="Team Member 1" className="w-64 h-64 rounded-full object-cover mb-8 mx-auto border-4 border-white" />
+                            <img src="/member1.png" alt="Team Member 1" className="w-64 h-64 rounded-full object-cover mb-8 mx-auto border-4 border-white" />
                             <h3 className="text-xl font-semibold mb-2">Paul Barbaira</h3>
                             <p className="text-lg mb-4">Chief Executive Officer</p>
                             <p className="text-sm leading-6 max-w-xs mx-auto">Paul is an experienced leader in HVAC sales, driving our company’s growth with a strong focus on innovation and excellence. His extensive background in the industry ensures that our customers receive the highest quality service and solutions.</p>
