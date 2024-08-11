@@ -26,12 +26,15 @@ const AboutUs: React.FC = () => {
                     <h2 className="text-3xl md:text-4xl font-bold mb-6">Our Clients</h2>
                     <div className="flex flex-col md:flex-row justify-around items-center space-y-8 md:space-y-0">
                         <div className="w-28 h-28 md:w-36 md:h-36 lg:w-48 lg:h-48 flex items-center justify-center mx-auto">
-                            <img src="/client-logo1.png" alt="Client 1" className="max-w-full max-h-full object-contain" />
+                            <img src="/client-logo.jpg" alt="Client 1" className="max-w-full max-h-full object-contain" />
                         </div>
                         <div className="w-28 h-28 md:w-36 md:h-36 lg:w-48 lg:h-48 flex items-center justify-center mx-auto">
-                            <img src="/client-logo3.svg" alt="Client 2" className="max-w-full max-h-full object-contain" />
+                            <img src="/client-logo2.jpg" alt="Client 2" className="max-w-full max-h-full object-contain" />
                         </div                        ><div className="w-28 h-28 md:w-36 md:h-36 lg:w-48 lg:h-48 flex items-center justify-center mx-auto">
-                            <img src="/client-logo2.png" alt="Client 3" className="max-w-full max-h-full object-contain" />
+                            <img src="/client-logo3.jpg" alt="Client 3" className="max-w-full max-h-full object-contain" />
+                        </div>
+                        <div className="w-28 h-28 md:w-36 md:h-36 lg:w-48 lg:h-48 flex items-center justify-center mx-auto">
+                            <img src="/client-logo4.jpg" alt="Client 4" className="max-w-full max-h-full object-contain" />
                         </div>
                     </div>
                 </div>
