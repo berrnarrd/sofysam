@@ -34,7 +34,7 @@ const AboutUs: React.FC = () => {
                             <img src="/client-logo3.jpg" alt="Client 3" className="max-w-full max-h-full object-contain" />
                         </div>
                         <div className="w-28 h-28 md:w-36 md:h-36 lg:w-48 lg:h-48 flex items-center justify-center mx-auto">
-                            <img src="/client-logo4.jpg" alt="Client 4" className="max-w-full max-h-full object-contain" />
+                            <img src="/client-logo4.JPG" alt="Client 4" className="max-w-full max-h-full object-contain" />
                         </div>
                     </div>
                 </div>
